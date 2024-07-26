@@ -1,0 +1,295 @@
+.container1{
+   margin-top:100px;
+    background-color: rgb(227, 224, 224);
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 10;
+    justify-content: space-around;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 5px;
+    margin-bottom: 40px;
+    padding-inline: 40px;
+    .a{
+        text-align: center;
+        margin-top: 20px;
+        width: 210px;
+        height: 210px;
+        border-radius: 5px;
+        background-color: rgb(160, 159, 159);
+        display: inline-block;
+        margin-bottom: 20px;
+        box-shadow: 5px 5px 5px gray;
+    }
+    h4{
+        text-shadow: 1px 1px 1px cornsilk;
+    }
+    img{
+        width: 100px;
+        height: 100px;
+        margin-top: 20px;
+        text-align: center;
+        border-radius: 50%;
+        box-shadow: 2px 2px 44px white;
+    }
+    img:hover{
+        box-shadow: 2px 2px 5px white;
+    }
+    .link{
+        margin-top: 20px;
+        text-align: center;
+        text-decoration: none;
+    }
+    .link:hover{
+        color: aliceblue;
+        text-shadow: 4px 4px 3px black;
+    }
+
+    .a1{
+        text-align: center;
+        margin-top: 20px;
+        width: 210px;
+        height: 210px;
+        border-radius: 5px;
+        background-color: rgb(160, 159, 159);
+        display: inline-block;
+        margin-bottom: 20px;
+        box-shadow: 5px 5px 5px gray;
+
+    }
+    .a2{
+        text-align: center;
+        margin-top: 20px;
+        width: 210px;
+        height: 210px;
+        border-radius: 5px;
+        background-color: rgb(160, 159, 159);
+        display: inline-block;
+        margin-bottom: 20px;
+        box-shadow: 5px 5px 5px gray;
+    }
+    .a3{
+        text-align: center;
+        margin-top: 20px;
+        width: 210px;
+        height: 210px;
+        border-radius: 5px;
+        background-color: rgb(160, 159, 159);
+        display: inline-block;
+        margin-bottom: 20px;
+        box-shadow: 5px 5px 5px gray;
+    }
+    .a4{
+        text-align: center;
+        margin-top: 20px;
+        width: 210px;
+        height: 210px;
+        border-radius: 5px;
+        background-color: rgb(160, 159, 159);
+        display: inline-block;
+        margin-bottom: 20px;
+        box-shadow: 5px 5px 5px gray;
+    }
+    .a5{
+        text-align: center;
+        margin-top: 20px;
+        width: 210px;
+        height: 210px;
+        border-radius: 5px;
+        background-color: rgb(160, 159, 159);
+        display: inline-block;
+        margin-bottom: 20px;
+        box-shadow: 5px 5px 5px gray;
+    }
+    .a6{
+        text-align: center;
+        margin-top: 20px;
+        width: 210px;
+        height: 210px;
+        border-radius: 5px;
+        background-color: rgb(160, 159, 159);
+        display: inline-block;
+        margin-bottom: 20px;
+        box-shadow: 5px 5px 5px gray;
+    }
+    .a7{
+        text-align: center;
+        margin-top: 20px;
+        width: 210px;
+        height: 210px;
+        border-radius: 5px;
+        background-color: rgb(160, 159, 159);
+        display: inline-block;
+        margin-bottom: 20px;
+        box-shadow: 5px 5px 5px gray;
+    }
+    .a8{
+        text-align: center;
+        margin-top: 20px;
+        width: 210px;
+        height: 210px;
+        border-radius: 5px;
+        background-color: rgb(160, 159, 159);
+        display: inline-block;
+        margin-bottom: 20px;
+        box-shadow: 5px 5px 5px gray;
+    }
+    .a9{
+        text-align: center;
+        margin-top: 20px;
+        width: 210px;
+        height: 210px;
+        border-radius: 5px;
+        background-color: rgb(160, 159, 159);
+        display: inline-block;
+        margin-bottom: 20px;
+        box-shadow: 5px 5px 5px gray;
+    }
+    .a10{
+        text-align: center;
+        margin-top: 20px;
+        width: 210px;
+        height: 210px;
+        border-radius: 5px;
+        background-color: rgb(160, 159, 159);
+        display: inline-block;
+        margin-bottom: 20px;
+        box-shadow: 5px 5px 5px gray;
+    }
+    .a11{
+        text-align: center;
+        margin-top: 20px;
+        width: 210px;
+        height: 210px;
+        border-radius: 5px;
+        background-color: rgb(160, 159, 159);
+        display: inline-block;
+        margin-bottom: 20px;
+        box-shadow: 5px 5px 5px gray;
+    }
+    .a12{
+        text-align: center;
+        margin-top: 20px;
+        width: 210px;
+        height: 210px;
+        border-radius: 5px;
+        background-color: rgb(160, 159, 159);
+        display: inline-block;
+        margin-bottom: 20px;
+        box-shadow: 5px 5px 5px gray;
+    }
+    .a13{
+        text-align: center;
+        margin-top: 20px;
+        width: 210px;
+        height: 210px;
+        border-radius: 5px;
+        background-color: rgb(160, 159, 159);
+        display: inline-block;
+        margin-bottom: 20px;
+        box-shadow: 5px 5px 5px gray;
+    }
+    .a14{
+        text-align: center;
+        margin-top: 20px;
+        width: 210px;
+        height: 210px;
+        border-radius: 5px;
+        background-color: rgb(160, 159, 159);
+        display: inline-block;
+        margin-bottom: 20px;
+        box-shadow: 5px 5px 5px gray;
+    }
+    .a15{
+        text-align: center;
+        margin-top: 20px;
+        width: 210px;
+        height: 210px;
+        border-radius: 5px;
+        background-color: rgb(160, 159, 159);
+        display: inline-block;
+        margin-bottom: 20px;
+        box-shadow: 5px 5px 5px gray;
+    }
+    .a16{
+        text-align: center;
+        margin-top: 20px;
+        width: 210px;
+        height: 210px;
+        border-radius: 5px;
+        background-color: rgb(160, 159, 159);
+        display: inline-block;
+        margin-bottom: 20px;
+        box-shadow: 5px 5px 5px gray;
+    }
+    .a17{
+        text-align: center;
+        margin-top: 20px;
+        width: 210px;
+        height: 210px;
+        border-radius: 5px;
+        background-color: rgb(160, 159, 159);
+        display: inline-block;
+        margin-bottom: 20px;
+        box-shadow: 5px 5px 5px gray;
+    }
+    .a18{
+        text-align: center;
+        margin-top: 20px;
+        width: 210px;
+        height: 210px;
+        border-radius: 5px;
+        background-color: rgb(160, 159, 159);
+        display: inline-block;
+        margin-bottom: 20px;
+        box-shadow: 5px 5px 5px gray;
+    }
+  
+}
+.navbar{
+    display: inline-block;
+    background-color: steelblue;
+    position: fixed;
+    top: 0;width: 100%;
+    left: 0;
+    header{
+        font-size: 11px;
+        color: aliceblue;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-left: 10px;
+        text-shadow: 2px 2px 10px rgb(34, 34, 34);
+    }
+}
+header:hover{
+    
+}
+footer{
+    color: white;
+    background-color: steelblue;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    text-shadow: 1px 1px 5px black;
+}
+@media only screen and (max-width: 600px) {
+    .navbar{
+        font-size: 10px;
+        display: inline-block;
+        background-color: steelblue;
+        position: fixed;
+        top: 0;width: 100%;
+        left: 0;
+        header{
+            color: aliceblue;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+            margin-left: 10px;
+        }
+    }
+  }
